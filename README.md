@@ -2,8 +2,6 @@
 
 Applied Computer Science student at Wrocław University of Technology, graduating February 2028. Looking for a Summer 2027 software engineering internship, and available part-time during the academic year.
 
-I work part-time as a fullstack developer on a production product in Rust and Svelte. That code is private. The repositories below are what I can show.
-
 ## Work
 
 - **Fullstack developer, part-time** (remote, since May 2026). Rust, Axum, Svelte, TypeScript. Audit tooling and product features on a live system.
